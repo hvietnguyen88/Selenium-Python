@@ -43,12 +43,12 @@ This project demonstrates automated browser testing using Selenium WebDriver wit
 
 To run all tests:
 ```
-pytest
+pytest tests/
 ```
 
 To run a specific test file:
 ```
-pytest test_open_browser.py
+pytest tests/test_open_browser.py
 ```
 
 To run with verbose output:
@@ -58,7 +58,7 @@ pytest -v
 
 ### Test Description
 
-- `test_open_browser.py`: Tests opening Chrome browser in headless mode, navigating to https://www.selenium.dev/, and verifying the URL.
+- `tests/test_open_browser.py`: Tests opening Chrome browser in headless mode, navigating to https://www.selenium.dev/, and verifying the URL.
 
 ## Troubleshooting
 
