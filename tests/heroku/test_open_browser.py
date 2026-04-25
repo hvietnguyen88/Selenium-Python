@@ -33,7 +33,7 @@ def test_open_browser_with_mobile_view_mode():
         driver.get("https://www.selenium.dev/")
         assert "Selenium" in driver.title
     finally:
-        time.sleep(3)  # Wait for the page to load
+        time.sleep(2)  # Wait for the page to load
         driver.quit()
 
 def test_open_browser_with_old_version():
@@ -45,7 +45,7 @@ def test_open_browser_with_old_version():
         driver.get("https://www.selenium.dev/")
         assert driver.title == "Selenium"
     finally:
-        time.sleep(3)  # Wait for the page to load
+        time.sleep(2)  # Wait for the page to load
         driver.quit()
 
 def test_open_browser_with_fake_geo_location():
@@ -66,7 +66,7 @@ def test_open_browser_with_fake_geo_location():
         assert driver.find_element(By.CSS_SELECTOR, "#lat-value").text == "37.386052"
         assert driver.find_element(By.CSS_SELECTOR, "#long-value").text == "-122.083851"
     finally:
-        time.sleep(3)  # Wait for the page to load
+        time.sleep(2)  # Wait for the page to load
         driver.quit()
 
 def test_interception_network():
