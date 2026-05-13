@@ -11,7 +11,7 @@ This project demonstrates automated browser testing using Selenium WebDriver wit
 
 ## Prerequisites
 
-- Python 3.14.3 or higher
+- Python 3.14.4 or higher
 - Google Chrome browser installed
 
 ## Installation
@@ -20,7 +20,7 @@ This project demonstrates automated browser testing using Selenium WebDriver wit
 
 2. Navigate to the project directory:
    ```
-   cd "d:\LEARNING\SOFTWARE TESTING\TVN\AUTOMATION\AK2604_Python"
+   cd Selenium-Python
    ```
 
 3. Create a virtual environment:
@@ -36,6 +36,30 @@ This project demonstrates automated browser testing using Selenium WebDriver wit
    ```
    pip install -r requirements.txt
    ```
+
+## Project Structure
+
+```
+Selenium-Python/
+├── src/
+│   └── test/
+│       ├── __init__.py
+│       └── heroku/
+│           ├── test_open_browser.py
+│           ├── test_login.py
+│           ├── test_checkboxes.py
+│           ├── test_dropdown.py
+│           ├── test_hyperlink.py
+│           └── test_web_table.py
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── .vscode/
+│   └── settings.json
+├── .idea/
+├── requirements.txt
+└── README.md
+```
 
 ## Usage
 
@@ -58,7 +82,29 @@ pytest -v
 
 ### Test Description
 
-- `src/test/heroku/test_open_browser.py`: Tests opening Chrome browser in headless mode, navigating to https://www.selenium.dev/, and verifying the URL.
+- **Browser Tests** (`src/test/heroku/test_open_browser.py`):
+  - Headless mode: Verify Chrome opens in headless mode and navigates to https://www.selenium.dev/
+  - Mobile view: Test mobile device emulation
+  - Old version: Test with older Chrome versions
+  - Fake geolocation: Test geolocation spoofing
+  - Network interception: Test network request interception
+  - Performance metrics: Capture performance metrics during page load
+  - Network conditions: Simulate 3G network conditions
+
+- **Login Tests** (`src/test/heroku/test_login.py`):
+  - Test successful login on the-internet.herokuapp.com
+
+- **Checkboxes Tests** (`src/test/heroku/test_checkboxes.py`):
+  - Test checking and unchecking checkboxes
+
+- **Dropdown Tests** (`src/test/heroku/test_dropdown.py`):
+  - Test dropdown selection functionality
+
+- **Hyperlinks Tests** (`src/test/heroku/test_hyperlink.py`):
+  - Test accessing and verifying hyperlinks
+
+- **Web Table Tests** (`src/test/heroku/test_web_table.py`):
+  - Test web table data validation
 
 ## Troubleshooting
 
