@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d21b410f-9eba-4e34-9b8f-e73362c69162" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/heroku/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/herokupages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/herokupages/table_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Selenium-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/heroku/web_table_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/herokutest/test_web_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/herokutest/test_web_table.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/STUDYING/SOFTWARE TESTING/Automation/Selenium-Python" value="3EiYz7Oz8ucHhtByIJpUpo2kYhv" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000210556" />
+      <entry key="S10" value="1.0000079434253206" />
+      <entry key="S30" value="1.0417687964834528" />
+      <entry key="S60" value="1.409772343138038" />
+      <entry key="M2" value="3.215191617503144" />
+      <entry key="M5" value="12.593446507638497" />
+      <entry key="M10" value="27.993844104493153" />
+      <entry key="M15" value="43.54651199683501" />
+      <entry key="M30" value="87.63699919934037" />
+      <entry key="H1" value="150.0763253722379" />
+      <entry key="H2" value="211.87634052052522" />
+      <entry key="H4" value="257.9617952513748" />
+      <entry key="D1" value="308.91268688458507" />
+      <entry key="W1" value="319.22640861030453" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.0599227682701138E-78" />
+      <entry key="S2" value="5.1588712371651114E-20" />
+      <entry key="S5" value="2.8405703414184266E-8" />
+      <entry key="S10" value="2.3717663958641976E-4" />
+      <entry key="S30" value="0.09815485335577591" />
+      <entry key="S60" value="0.4487725919893684" />
+      <entry key="M2" value="1.216314156126422" />
+      <entry key="M5" value="4.744863251184737" />
+      <entry key="M10" value="12.136495499817308" />
+      <entry key="M15" value="21.24551952126569" />
+      <entry key="M30" value="49.8888536490051" />
+      <entry key="H1" value="92.07765554996467" />
+      <entry key="H2" value="133.85397343925942" />
+      <entry key="H4" value="164.69229299421318" />
+      <entry key="D1" value="198.18702576451864" />
+      <entry key="W1" value="204.85740127571063" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9460576467255959" />
+      <entry key="MS500" value="0.9889709163809315" />
+      <entry key="S2" value="0.9972312513520695" />
+      <entry key="S5" value="0.9988916015696324" />
+      <entry key="S10" value="0.9996642420827858" />
+      <entry key="S30" value="1.1355156238806654" />
+      <entry key="S60" value="1.84715803241555" />
+      <entry key="M2" value="4.411033283455357" />
+      <entry key="M5" value="17.299448902302142" />
+      <entry key="M10" value="40.08291046279145" />
+      <entry key="M15" value="64.74031618295058" />
+      <entry key="M30" value="137.47018492590362" />
+      <entry key="H1" value="242.1039750173341" />
+      <entry key="H2" value="345.69399086657546" />
+      <entry key="H4" value="422.6316021876331" />
+      <entry key="D1" value="507.095138669233" />
+      <entry key="W1" value="524.0831317534714" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3EiYz7Oz8ucHhtByIJpUpo2kYhv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test.herokutest.test_web_table.TestWebTable.executor": "Run",
+    "Python tests.Python tests for test.herokutest.test_web_table.test_successfully_validate_largest_due_person_new.executor": "Run",
+    "Python tests.Python tests for test.herokutest.test_web_table.test_successfully_validate_max_due_persons.executor": "Run",
+    "Python tests.Python tests for test.herokutest.test_web_table.test_successfully_validate_min_due_persons.executor": "Run",
+    "Python tests.Python tests in test_web_table.py.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\STUDYING\SOFTWARE TESTING\Automation\Selenium-Python\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_web_table.py">
+    <configuration name="Python tests for test.herokutest.test_web_table.TestWebTable" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.herokutest.test_web_table.TestWebTable&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.herokutest.test_web_table.test_successfully_validate_largest_due_person_new" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.herokutest.test_web_table.test_successfully_validate_largest_due_person_new&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.herokutest.test_web_table.test_successfully_validate_max_due_persons" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.herokutest.test_web_table.test_successfully_validate_max_due_persons&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.herokutest.test_web_table.test_successfully_validate_min_due_persons" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.herokutest.test_web_table.test_successfully_validate_min_due_persons&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_web_table.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test/herokutest/test_web_table.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_web_table.py" />
+        <item itemvalue="Python tests.Python tests for test.herokutest.test_web_table.TestWebTable" />
+        <item itemvalue="Python tests.Python tests for test.herokutest.test_web_table.test_successfully_validate_max_due_persons" />
+        <item itemvalue="Python tests.Python tests for test.herokutest.test_web_table.test_successfully_validate_min_due_persons" />
+        <item itemvalue="Python tests.Python tests for test.herokutest.test_web_table.test_successfully_validate_largest_due_person_new" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21b410f-9eba-4e34-9b8f-e73362c69162" name="Changes" comment="" />
+      <created>1780663117576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780663117576</updated>
+      <workItem from="1780663119111" duration="14311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium_Python$.coverage" NAME=" Coverage Results" MODIFIED="1780697621095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
