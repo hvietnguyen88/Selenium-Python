@@ -1,4 +1,6 @@
 {
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+    "python.linting.enabled": true,
     "python.testing.pytestArgs": [
         "src/test"
     ],
